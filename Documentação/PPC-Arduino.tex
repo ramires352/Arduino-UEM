@@ -94,6 +94,32 @@
 		\label{figExp1PiscarLEDcod}
 	\end{figure}
 
+\subsection{Mudar o brilho de um LED}
+	Para realizar esse experimento será necessário um LED, um potenciômetro e um resistor de 220$\Omega$.
+
+	O potenciômetro é um resistor capaz de variar sua resistencia, para esse experimento, o arduino irá ler esse valor de resistência e associar a um valor de tensão e enviar ao LED, variando assim o brilho do LED.
+
+	A Figura \ref{figExp2BrilhoLEDesq} mostra o esquemático do circuito do experimento.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.4]{Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png}
+		\caption{Esquemático do circuito do experimento 2.}
+		\label{figExp2BrilhoLEDesq}
+	\end{figure}
+
+	O arduino faz a leitura do potenciômetro em um valor de 0 a 1023. Para usar esse valor para acender o LED, é necessário fazer uma conversão para um valor de 0 a 255. Para isso é utilizado a função \textit{map}, que é responsável por fazer esse mapeamento de um intervalo para outro.
+
+	A figura \ref{figExp2BrilhoLEDcod} mostra o código do experimento 2.\\\\
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.6]{Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png}
+		\caption{Código do experimento 2.}
+		\label{figExp2BrilhoLEDcod}
+	\end{figure}
+
+\subsection{Sensor de luz}
 
 \bibliographystyle{sbc}
 \bibliography{referencias}

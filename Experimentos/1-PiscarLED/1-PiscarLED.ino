@@ -1,8 +1,8 @@
+//Definição do pino positivo que será ligado ao LED
+int pinoLED = 2;
+
 void setup() {
   //Executa apenas uma vez
-
-  //Definição do pino positivo que será ligado ao LED
-  int pinoLED = 2
 
   //Definição do pino pinoLED como saída
   pinMode(pinoLED, OUTPUT); 
