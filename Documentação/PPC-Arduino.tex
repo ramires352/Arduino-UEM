@@ -166,6 +166,15 @@
 
 	O botão é definido como \textit{INPUT\_PULLUP} para utilizar um resistor interno do arduino e simplificar o circuito, por conta disso, o arduino interpreta o botão como estado alto quando não pressionado e estado baixo quando pressionado. Para detectar o acionamento do botão é necessário considerar o estado atual do botão e o estado anterior, pois o arduino faz a leitura do botão um grande número de vezes por segundo, sendo assim é necessário esse tratamento para evitar que o arduino interprete que o botão foi acionado diversas vezes em apenas um acionamento.
 
+	A Figura \ref{figExp4cod} mostra o esquemático do circuito do experimento 4.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.3]{Imagens/Experimentos/4-Display7Seg/esquematico.png}
+		\caption{Esquemático do experimento 4.}
+		\label{figExp4cod}
+	\end{figure}
+
 	A Figura \ref{figExp4botao} mostra o trecho de código que faz a leitura do botão.
 
 	\begin{figure}[h!]
