@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0",
+    "sketch": "Experimentos/2-brilhoLED/2-brilhoLED.ino"
+}

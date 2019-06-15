@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  14 JUN 2019 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  15 JUN 2019 10:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -658,16 +658,11 @@ File: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png Graphic file (type png
 Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png  used on input line 92.
 (pdftex.def)             Requested size: 205.96976pt x 198.74277pt.
  [2 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figProtoboard.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png (PNG copy)>]
-<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=75, 503.63156pt x 237.88875pt>
+<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=75, 499.8675pt x 228.10219pt>
 File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png Graphic file (type png)
 <use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png>
 Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png  used on input line 106.
-(pdftex.def)             Requested size: 201.44905pt x 95.15381pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-
- []
-
+(pdftex.def)             Requested size: 199.94345pt x 91.23924pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
@@ -705,7 +700,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  30i,8n,31p,465b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (4 pages, 314915 bytes).
+Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (4 pages, 317029 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  103 compressed objects within 2 object streams

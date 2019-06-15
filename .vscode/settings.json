@@ -1,3 +1,17 @@
 {
-    "cSpell.enabled": true
+  "cSpell.enabled": true,
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.exclude": {
+    "Documentação/sbc.bst": true,
+    "Documentação/caption2.sty": true,
+    "Documentação/PPC-Arduino.aux": true,
+    "Documentação/PPC-Arduino.bbl": true,
+    "Documentação/PPC-Arduino.blg": true,
+    "Documentação/PPC-Arduino.fdb_latexmk": true,
+    "Documentação/PPC-Arduino.fls": true,
+    "Documentação/PPC-Arduino.log": true,
+    "Documentação/PPC-Arduino.out": true,
+    "Documentação/PPC-Arduino.synctex.gz": true,
+    "Documentação/sbc-template.sty": true
+  }
 }
