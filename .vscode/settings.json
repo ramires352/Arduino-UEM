@@ -1,6 +1,5 @@
 {
   "cSpell.enabled": true,
-  "C_Cpp.errorSquiggles": "Disabled",
   "files.exclude": {
     "Documentação/sbc.bst": true,
     "Documentação/caption2.sty": true,
@@ -13,5 +12,7 @@
     "Documentação/PPC-Arduino.out": true,
     "Documentação/PPC-Arduino.synctex.gz": true,
     "Documentação/sbc-template.sty": true
-  }
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Disabled",
+  "C_Cpp.intelliSenseEngine": "Tag Parser"
 }

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  15 JUN 2019 10:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  15 JUN 2019 12:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -676,34 +676,40 @@ Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png  us
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl
+[3 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png (PNG copy)>]
+<Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png, id=87, 502.87875pt x 249.93375pt>
+File: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png Graphic file (type png)
+<use Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png>
+Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png  used on input line 131.
+(pdftex.def)             Requested size: 201.14793pt x 99.97173pt.
+ (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
- [3 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png (PNG copy)>] [4 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+ [4 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
  (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 127.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 127.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `PPC-Arduino.out' has not changed.
 (rerunfilecheck)             Checksum: 201B6B034630E7E1B1D777DA5B41EB06;606.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
- 6917 strings out of 492982
- 100777 string characters out of 6134897
- 198552 words of memory out of 5000000
- 10363 multiletter control sequences out of 15000+600000
+ 6925 strings out of 492982
+ 101104 string characters out of 6134897
+ 198615 words of memory out of 5000000
+ 10368 multiletter control sequences out of 15000+600000
  21163 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,31p,465b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,31p,488b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (4 pages, 317029 bytes).
+Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (4 pages, 409789 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

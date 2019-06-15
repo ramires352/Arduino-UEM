@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex PPC-Arduino"] 1560605713 "PPC-Arduino.aux" "PPC-Arduino.bbl" "PPC-Arduino" 1560606349
+["bibtex PPC-Arduino"] 1560610926 "PPC-Arduino.aux" "PPC-Arduino.bbl" "PPC-Arduino" 1560610966
   "./sbc.bst" 1560545950 21864 a668496cca21cfdd211f7fb5f0d57565 ""
-  "PPC-Arduino.aux" 1560606309 2986 d96e5392c6df2912cc436c3452350a5b ""
+  "PPC-Arduino.aux" 1560610965 3211 64726e589819e076ddec2dfd93e12cd7 ""
   "PPC-Arduino.bcf" 0 -1 0 ""
   "referencias.bib" 1560545950 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "PPC-Arduino.bbl"
   "PPC-Arduino.blg"
-["pdflatex"] 1560606308 "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf" "PPC-Arduino" 1560606349
+["pdflatex"] 1560610965 "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf" "PPC-Arduino" 1560610966
   "/etc/texmf/web2c/texmf.cnf" 1560107932 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux" 1560606309 2986 d96e5392c6df2912cc436c3452350a5b ""
-  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" 1560606349 6372 df970f14bb903103c69c500a3a50b5de ""
+  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux" 1560610965 3211 64726e589819e076ddec2dfd93e12cd7 ""
+  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" 1560610964 7174 4d710eddc852edb7e1b39d2d456920b9 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1480098688 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -100,18 +100,19 @@
   "Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png" 1560547746 20308 5756278e196ed6ff9ada2d6a9233b389 ""
   "Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png" 1560550047 21061 bdb5078cccc0fec85989b9f12629d7c7 ""
   "Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png" 1560606308 86693 cca4e0a209db02feb6fb9e0a50830203 ""
+  "Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png" 1560610872 91296 52839c90ae65eaec5a6b57a733ce2337 ""
   "Imagens/figEstrutura.png" 1560545950 3146 af16e358ab073b9b524f90e6eb6ad5dd ""
   "Imagens/figProtoboard.png" 1560545950 29922 029ae4e0f5ce0e189611803e28d11771 ""
-  "PPC-Arduino.aux" 1560606309 2986 d96e5392c6df2912cc436c3452350a5b ""
-  "PPC-Arduino.bbl" 1560605714 49 0eba253fc001332e731e8aba3f23127b "bibtex PPC-Arduino"
-  "PPC-Arduino.out" 1560606309 606 201b6b034630e7e1b1d777da5b41eb06 ""
-  "PPC-Arduino.tex" 1560606349 6372 df970f14bb903103c69c500a3a50b5de ""
+  "PPC-Arduino.aux" 1560610965 3211 64726e589819e076ddec2dfd93e12cd7 ""
+  "PPC-Arduino.bbl" 1560610926 49 0eba253fc001332e731e8aba3f23127b "bibtex PPC-Arduino"
+  "PPC-Arduino.out" 1560610965 606 201b6b034630e7e1b1d777da5b41eb06 ""
+  "PPC-Arduino.tex" 1560610964 7174 4d710eddc852edb7e1b39d2d456920b9 ""
   "caption2.sty" 1560545950 15190 35c3352faab63b28086162350d49d218 ""
   "sbc-template.sty" 1560545950 5285 fb8f2a32de10fa23e40f15acd9749a09 ""
   (generated)
-  "PPC-Arduino.aux"
   "PPC-Arduino.pdf"
   "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.log"
+  "PPC-Arduino.aux"
+  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf"
   "PPC-Arduino.log"
   "PPC-Arduino.out"
-  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf"

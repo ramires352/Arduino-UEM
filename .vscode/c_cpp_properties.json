@@ -4,16 +4,18 @@
             "name": "Linux",
             "includePath": [
                 "/home/ramires/.arduino-1.8.9/tools/**",
-                "/home/ramires/.arduino-1.8.9/hardware/arduino/avr/**"
+                "/home/ramires/.arduino-1.8.9/hardware/arduino/avr/**",
+                "/usr/include/linux"
             ],
             "forcedInclude": [
                 "/home/ramires/.arduino-1.8.9/hardware/arduino/avr/cores/arduino/Arduino.h"
             ],
-            "intelliSenseMode": "gcc-x64",
+            "intelliSenseMode": "clang-x64",
             "compilerPath": "/usr/bin/clang",
-            "cStandard": "c11",
+            "cStandard": "c99",
             "cppStandard": "c++17"
         }
     ],
-    "version": 4
+    "version": 4,
+    "C_Cpp.intelliSenseEngine": "Tag Parser"
 }
