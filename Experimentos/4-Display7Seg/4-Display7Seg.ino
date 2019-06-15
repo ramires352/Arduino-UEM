@@ -18,7 +18,7 @@ int estadoAnterior = LOW;
 int digito = 0;
 
 //Quantidade de segmentos para cada digito
-int qtdSegmentos[] = {6,2,5,5,4,5,6,3,8,5};
+int qtdSegmentos[] = {6,2,5,5,4,5,6,3,8,6};
 
 int zero[] = {A,B,C,D,E,F};
 int um[] = {B,C};
@@ -29,7 +29,7 @@ int cinco[] = {A,F,G,C,D};
 int seis[] = {A,F,C,D,E,G};
 int sete[] = {A,B,C};
 int oito[] = {A,B,C,D,E,F,G};
-int nove[] = {A,B,C,F,G};
+int nove[] = {A,B,C,F,G,D};
 
 //Apaga o display
 void apagar(){
