@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex PPC-Arduino"] 1560626156 "PPC-Arduino.aux" "PPC-Arduino.bbl" "PPC-Arduino" 1560626167
+["bibtex PPC-Arduino"] 1560626907 "PPC-Arduino.aux" "PPC-Arduino.bbl" "PPC-Arduino" 1560626908
   "./sbc.bst" 1560545950 21864 a668496cca21cfdd211f7fb5f0d57565 ""
-  "PPC-Arduino.aux" 1560626166 4132 92e4fd993a2639ba3a7feae0a0c4c9dc ""
+  "PPC-Arduino.aux" 1560626908 4198 804fe49aa5fb4b369266fe5c791568e4 ""
   "PPC-Arduino.bcf" 0 -1 0 ""
-  "referencias.bib" 1560545950 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "referencias.bib" 1560626897 267 712b6976386af6e393c6765bdcfdb6e2 ""
   (generated)
   "PPC-Arduino.blg"
   "PPC-Arduino.bbl"
-["pdflatex"] 1560626165 "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf" "PPC-Arduino" 1560626167
+["pdflatex"] 1560626907 "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf" "PPC-Arduino" 1560626908
   "/etc/texmf/web2c/texmf.cnf" 1560107932 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux" 1560626166 4132 92e4fd993a2639ba3a7feae0a0c4c9dc ""
-  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" 1560626165 9387 d422f2cb4c8ea71f976db10bebcf7b64 ""
+  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux" 1560626908 4198 804fe49aa5fb4b369266fe5c791568e4 ""
+  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.tex" 1560626903 9418 d9b7d8de8c3f6c45bf326a39a24495f0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1480098688 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -109,16 +109,16 @@
   "Imagens/Experimentos/4-Display7Seg/pinosDisplay.png" 1560623972 18467 6e1d03201bf239c4391f335325d51a25 ""
   "Imagens/figEstrutura.png" 1560545950 3146 af16e358ab073b9b524f90e6eb6ad5dd ""
   "Imagens/figProtoboard.png" 1560545950 29922 029ae4e0f5ce0e189611803e28d11771 ""
-  "PPC-Arduino.aux" 1560626166 4132 92e4fd993a2639ba3a7feae0a0c4c9dc ""
-  "PPC-Arduino.bbl" 1560626156 49 0eba253fc001332e731e8aba3f23127b "bibtex PPC-Arduino"
-  "PPC-Arduino.out" 1560626166 678 c1c88119e5c90c26837c259119aa3f4b ""
-  "PPC-Arduino.tex" 1560626165 9387 d422f2cb4c8ea71f976db10bebcf7b64 ""
+  "PPC-Arduino.aux" 1560626908 4198 804fe49aa5fb4b369266fe5c791568e4 ""
+  "PPC-Arduino.bbl" 1560626907 220 89505a1aa3d7137a6c052f41e3fd7a35 "bibtex PPC-Arduino"
+  "PPC-Arduino.out" 1560626908 678 c1c88119e5c90c26837c259119aa3f4b ""
+  "PPC-Arduino.tex" 1560626903 9418 d9b7d8de8c3f6c45bf326a39a24495f0 ""
   "caption2.sty" 1560545950 15190 35c3352faab63b28086162350d49d218 ""
   "sbc-template.sty" 1560545950 5285 fb8f2a32de10fa23e40f15acd9749a09 ""
   (generated)
-  "PPC-Arduino.pdf"
   "PPC-Arduino.aux"
-  "PPC-Arduino.out"
-  "PPC-Arduino.log"
-  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.log"
   "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf"
+  "/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.log"
+  "PPC-Arduino.out"
+  "PPC-Arduino.pdf"
+  "PPC-Arduino.log"
