@@ -3,6 +3,7 @@
 \usepackage{sbc-template}
 \usepackage{hyperref}
 \usepackage{graphicx,url}
+\usepackage{xcolor}
 
 \usepackage[brazil]{babel}   
 %\usepackage[latin1]{inputenc}  
@@ -32,7 +33,7 @@
 	O arduino possui uma IDE \textit{Integrated Development Environment} chamada de ``Arduino IDE'', que é onde serão escritos os códigos para que depois sejam enviados ao arduino e executado.
 
 \subsection{Download da IDE}
-	Para fazer o download da IDE basta ir ao \href{https://www.arduino.cc/en/Main/Software}{site do arduino} e escolher a versão de acordo com o sistema operacional utilizado, estando disponível para Windows, Linux e MacOS.
+	Para fazer o download da IDE basta ir ao \href{https://www.arduino.cc/en/Main/Software}{\underline{\textcolor{blue}{site do arduino}}} e escolher a versão de acordo com o sistema operacional utilizado, estando disponível para Windows, Linux e MacOS.
 
 \section{Programação}
 	A programação do arduino é feita na linguagem C++ e possui uma grande quantidade de bibliotecas prontas para a utilização de sensores.
@@ -56,7 +57,7 @@
 \section{Experimentos}
 	Nessa seção serão realizados vários experimentos com o arduino, utilizando uma grande diversidade de componentes e sensores.
 
-	Todos os experimentos realizados nesse trabalho estão disponíveis no repositório no \href{https://github.com/ramires352/Arduino-UEM}{\textit{GitHub}} e os esquemáticos dos circuitos estão disponíveis no \href{https://www.tinkercad.com/users/8OFhdueEmAr-rrramires?category=circuits&sort=likes&view_mode=default}{\textit{Tinkercad}}.
+	Todos os experimentos realizados nesse trabalho estão disponíveis no repositório no \href{https://github.com/ramires352/Arduino-UEM}{\underline{\textcolor{blue}{\textit{GitHub}}}} e os esquemáticos dos circuitos estão disponíveis no \href{https://www.tinkercad.com/users/8OFhdueEmAr-rrramires?category=circuits&sort=likes&view_mode=default}{\underline{\textcolor{blue}{\textit{Tinkercad}}}}.
 
 \subsection{Piscar um LED}
 	Para realizar esse experimentos será necessário um LED, uma \textit{protoboard} e dois \textit{jumpers}.
@@ -131,6 +132,47 @@
 		\includegraphics[scale=0.4]{Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png}
 		\caption{Esquemático do circuito do experimento 3.}
 		\label{figExp3LDResq}
+	\end{figure}
+
+	A Figura \ref{codigoExp3} mostra o código do experimento 3.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.39]{Imagens/Experimentos/3-LDR-LEDGraph/codigo.png}
+		\caption{Código do experimento 3.}
+		\label{codigoExp3}
+	\end{figure}
+
+\subsection{Display de 7 Segmentos}
+	Esse experimento faz o controle de um display de 7 segmentos utilizando um botão para exibir os dígitos de 0 a 9. O display incia exibindo o dígito 0 e incrementa um dígito quando o botão é pressionado. Os segmentos do display são nomeados de acordo com a Figura \ref{figSegmentosDisplay}.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.5]{Imagens/Experimentos/4-Display7Seg/7segmentos.png}
+		\caption{Segmentos do display.}
+		\label{figSegmentosDisplay}
+	\end{figure}
+
+	Para acender um segmento o arduino deve enviar um sinal alto para o segmento, e para apagar deve enviar um sinal baixo.
+
+	A Figura \ref{figPinosDisplay} mostra a pinagem do display. Para esse experimento não será utilizado o ponto decimal.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.5]{Imagens/Experimentos/4-Display7Seg/pinosDisplay.png}
+		\caption{Pinagem do display de 7 segmentos.}
+		\label{figPinosDisplay}
+	\end{figure}
+
+	O botão é definido como \textit{INPUT\_PULLUP} para utilizar um resistor interno do arduino e simplificar o circuito, por conta disso, o arduino interpreta o botão como estado alto quando não pressionado e estado baixo quando pressionado. Para detectar o acionamento do botão é necessário considerar o estado atual do botão e o estado anterior, pois o arduino faz a leitura do botão um grande número de vezes por segundo, sendo assim é necessário esse tratamento para evitar que o arduino interprete que o botão foi acionado diversas vezes em apenas um acionamento.
+
+	A Figura \ref{figExp4botao} mostra o trecho de código que faz a leitura do botão.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.65]{Imagens/Experimentos/4-Display7Seg/codigoBotao.png}
+		\caption{Código que detecta o acionamento do botão.}
+		\label{figExp4botao}
 	\end{figure}
 
 \bibliographystyle{sbc}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  15 JUN 2019 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  15 JUN 2019 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -182,6 +182,21 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen124
 \Gin@req@width=\dimen125
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
  (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
@@ -515,21 +530,21 @@ Now handling font encoding PD1 ...
 )) (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux)
 \openout1 = `PPC-Arduino.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 25.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -568,7 +583,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 25.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -576,9 +591,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count103
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.out) (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.out)
 \@outlinefile=\write3
 \openout3 = `PPC-Arduino.out'.
@@ -609,107 +624,128 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <12> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 27.
+(Font)              <6> on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 28.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
-<Imagens/figEstrutura.png, id=46, 146.04562pt x 82.05656pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+<Imagens/figEstrutura.png, id=50, 146.04562pt x 82.05656pt>
 File: Imagens/figEstrutura.png Graphic file (type png)
 <use Imagens/figEstrutura.png>
-Package pdftex.def Info: Imagens/figEstrutura.png  used on input line 45.
+Package pdftex.def Info: Imagens/figEstrutura.png  used on input line 46.
 (pdftex.def)             Requested size: 189.85925pt x 106.6735pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 46.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 47.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figEstrutura.png (PNG copy)>]
-<Imagens/figProtoboard.png, id=62, 321.45094pt x 211.54031pt>
+<Imagens/figProtoboard.png, id=66, 321.45094pt x 211.54031pt>
 File: Imagens/figProtoboard.png Graphic file (type png)
 <use Imagens/figProtoboard.png>
-Package pdftex.def Info: Imagens/figProtoboard.png  used on input line 72.
+Package pdftex.def Info: Imagens/figProtoboard.png  used on input line 73.
 (pdftex.def)             Requested size: 160.72507pt x 105.76988pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 73.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 74.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 73.
-<Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png, id=64, 791.20593pt x 232.61906pt>
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 74.
+<Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png, id=68, 791.20593pt x 232.61906pt>
 File: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png Graphic file (type png)
 <use Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png>
-Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png  used on input line 81.
+Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png  used on input line 82.
 (pdftex.def)             Requested size: 237.3636pt x 69.78625pt.
-<Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png, id=66, 257.46187pt x 248.42813pt>
+<Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png, id=70, 257.46187pt x 248.42813pt>
 File: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png Graphic file (type png)
 <use Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png>
-Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png  used on input line 92.
+Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png  used on input line 93.
 (pdftex.def)             Requested size: 205.96976pt x 198.74277pt.
  [2 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figProtoboard.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png (PNG copy)>]
-<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=75, 499.8675pt x 228.10219pt>
+<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=79, 499.8675pt x 228.10219pt>
 File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png Graphic file (type png)
 <use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png>
-Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png  used on input line 106.
+Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png  used on input line 107.
 (pdftex.def)             Requested size: 199.94345pt x 91.23924pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png, id=77, 497.60907pt x 211.54031pt>
+<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png, id=81, 497.60907pt x 211.54031pt>
 File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png Graphic file (type png)
 <use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png>
-Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png  used on input line 117.
+Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png  used on input line 118.
 (pdftex.def)             Requested size: 298.56773pt x 126.92516pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [3 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png (PNG copy)>]
-<Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png, id=87, 502.87875pt x 249.93375pt>
+<Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png, id=91, 502.87875pt x 249.93375pt>
 File: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png Graphic file (type png)
 <use Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png>
-Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png  used on input line 131.
+Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png  used on input line 132.
 (pdftex.def)             Requested size: 201.14793pt x 99.97173pt.
+<Imagens/Experimentos/3-LDR-LEDGraph/codigo.png, id=93, 371.88937pt x 378.66469pt>
+File: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png Graphic file (type png)
+<use Imagens/Experimentos/3-LDR-LEDGraph/codigo.png>
+Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png  used on input line 141.
+(pdftex.def)             Requested size: 145.03627pt x 147.67862pt.
+ [4 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/codigo.png (PNG copy)>]
+<Imagens/Experimentos/4-Display7Seg/7segmentos.png, id=101, 131.74219pt x 147.55125pt>
+File: Imagens/Experimentos/4-Display7Seg/7segmentos.png Graphic file (type png)
+<use Imagens/Experimentos/4-Display7Seg/7segmentos.png>
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/7segmentos.png  used on input line 151.
+(pdftex.def)             Requested size: 65.87093pt x 73.77544pt.
+<Imagens/Experimentos/4-Display7Seg/pinosDisplay.png, id=103, 102.3825pt x 184.43906pt>
+File: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png Graphic file (type png)
+<use Imagens/Experimentos/4-Display7Seg/pinosDisplay.png>
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png  used on input line 162.
+(pdftex.def)             Requested size: 51.19112pt x 92.2193pt.
+<Imagens/Experimentos/4-Display7Seg/codigoBotao.png, id=105, 313.9228pt x 152.06813pt>
+File: Imagens/Experimentos/4-Display7Seg/codigoBotao.png Graphic file (type png)
+<use Imagens/Experimentos/4-Display7Seg/codigoBotao.png>
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/codigoBotao.png  used on input line 173.
+(pdftex.def)             Requested size: 204.0474pt x 98.8431pt.
  (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
- [4 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+ [5 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/7segmentos.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/pinosDisplay.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/codigoBotao.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `PPC-Arduino.out' has not changed.
-(rerunfilecheck)             Checksum: 201B6B034630E7E1B1D777DA5B41EB06;606.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+(rerunfilecheck)             Checksum: C1C88119E5C90C26837C259119AA3F4B;678.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 6925 strings out of 492982
- 101104 string characters out of 6134897
- 198615 words of memory out of 5000000
- 10368 multiletter control sequences out of 15000+600000
+ 7397 strings out of 492982
+ 107224 string characters out of 6134897
+ 209093 words of memory out of 5000000
+ 10823 multiletter control sequences out of 15000+600000
  21163 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,31p,488b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,35p,661b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (4 pages, 409789 bytes).
+Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (5 pages, 494543 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 149 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
