@@ -33,7 +33,16 @@
 	O arduino possui uma IDE \textit{Integrated Development Environment} chamada de ``Arduino IDE'', que é onde serão escritos os códigos para que depois sejam enviados ao arduino e executado.
 
 \subsection{Download da IDE}
-	Para fazer o download da IDE basta ir ao \href{https://www.arduino.cc/en/Main/Software}{\underline{\textcolor{blue}{site do arduino}}} e escolher a versão de acordo com o sistema operacional utilizado, estando disponível para Windows, Linux e MacOS.
+	Para fazer o download da IDE basta ir ao \textcolor{blue}{https://www.arduino.cc/en/Main/Software} e escolher a versão de acordo com o sistema operacional utilizado, estando disponível para Windows, Linux e MacOS.
+
+	A Figura \ref{figIDE} mostra a tela principal da IDE do arduino.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.2]{Imagens/telaIDE.png}
+		\caption{Tela principal da Arduino IDE.}
+		\label{figIDE}
+	\end{figure}
 
 \section{Programação}
 	A programação do arduino é feita na linguagem C++ e possui uma grande quantidade de bibliotecas prontas para a utilização de sensores.
@@ -54,6 +63,15 @@
 \subsection{Upload do código}
 	Para realizar o \textit{upload} do código para a placa do arduino, basta clicar no botão ``carregar'', então o código será compilado e carregado para o arduino e então começar a execução.
 
+	A Figura \ref{figCarregarIDE} mostra em destaque o botão para carregar o código para o arduino.
+
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=1]{Imagens/carregarIDE.png}
+		\caption{Destaque do botão de carregar.}
+		\label{figCarregarIDE}
+	\end{figure}
+
 \section{Experimentos}
 	Nessa seção serão realizados vários experimentos com o arduino, utilizando uma grande diversidade de componentes e sensores.
 
@@ -66,7 +84,7 @@
 
 	Alguns modelos de \textit{protoboard} possuem dois barramentos laterais, um negativo e um positivo que percorrem a \textit{protoboard} inteira. O padrão de utilização desses barramentos é ligar o 5V no barramento vermelho e o GND no barramento preto, ficando assim mais simples de realizar a alimentação dos componentes utilizados.
 
-	A Figura \ref{figProtoboard} mostra o esquema de uma \textit{protoboard} de 360 pontos.
+	A Figura \ref{figProtoboard} mostra o esquema de uma \textit{protoboard} de 360 pontos.\\\\
 
 	\begin{figure}[h!]
 		\centering
@@ -111,7 +129,7 @@
 
 	O arduino faz a leitura do potenciômetro em um valor de 0 a 1023. Para usar esse valor para acender o LED, é necessário fazer uma conversão para um valor de 0 a 255. Para isso é utilizado a função \textit{map}, que é responsável por fazer esse mapeamento de um intervalo para outro.
 
-	A figura \ref{figExp2BrilhoLEDcod} mostra o código do experimento 2.\\
+	A figura \ref{figExp2BrilhoLEDcod} mostra o código do experimento 2.
 
 	\begin{figure}[h!]
 		\centering
@@ -125,7 +143,7 @@
 
 	Para esse experimento, quanto maior a luz incidente sobre o LDR, menos LEDs irão acender.
 
-	A Figura \ref{figExp3LDResq} mostra o esquemático do circuito do experimento 3.
+	A Figura \ref{figExp3LDResq} mostra o esquemático do circuito do experimento 3.\\\\\\\\
 
 	\begin{figure}[h!]
 		\centering
@@ -155,7 +173,7 @@
 
 	Para acender um segmento o arduino deve enviar um sinal alto para o segmento, e para apagar deve enviar um sinal baixo.
 
-	A Figura \ref{figPinosDisplay} mostra a pinagem do display. Para esse experimento não será utilizado o ponto decimal.
+	A Figura \ref{figPinosDisplay} mostra a pinagem do display. Para esse experimento não será utilizado o ponto decimal.\\\\\\\\
 
 	\begin{figure}[h!]
 		\centering
@@ -183,6 +201,71 @@
 		\caption{Código que detecta o acionamento do botão.}
 		\label{figExp4botao}
 	\end{figure}
+
+\subsection{Matriz de LEDs 8x8}
+Esse experimento tem como objetivo percorrer os LEDs da matriz utilizando um joystick.
+
+Como o \textit{Tinkercad} não possui os módulos da matriz e do joystick, esse experimento não estará disponível para simulação.
+
+A Figura \ref{figPinosMatriz} mostra a numeração de pinos da matriz de LEDs \cite{siteLEDMatrix}.\\\\\\
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[scale=0.7]{Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png}
+	\caption{Numeração de pinos da matriz.}
+	\label{figPinosMatriz}
+\end{figure}
+
+A Tabela \ref{tabMatrizLinhas} mostra como fazer a conexão das linhas da matriz com o arduino.
+
+\begin{table}[h!]
+	\centering
+	\begin{tabular}{|c|c|c|}
+	\hline
+	\textbf{Linha} & \textbf{Pino Matriz} & \textbf{Pino Arduino} \\ \hline
+	1              & 9                    & 2                     \\ \hline
+	2              & 14                   & 3                     \\ \hline
+	3              & 8                    & 4                     \\ \hline
+	4              & 12                   & 5                     \\ \hline
+	5              & 1                    & 6                     \\ \hline
+	6              & 7                    & 7                     \\ \hline
+	7              & 2                    & 8                     \\ \hline
+	8              & 5                    & 9                     \\ \hline
+	\end{tabular}
+	\caption{Conexão das linhas da matriz no arduino.}
+	\label{tabMatrizLinhas}
+\end{table}
+
+A Tabela \ref{tabMatrizColunas} mostra como fazer a conexão das colunas da matriz com o arduino.\\\\\\\\
+
+\begin{table}[h!]
+	\centering
+	\begin{tabular}{|c|c|c|}
+	\hline
+	\textbf{Coluna} & \textbf{Pino Matriz} & \textbf{Pino Arduino} \\ \hline
+	1               & 13                   & 10                    \\ \hline
+	2               & 3                    & 11                    \\ \hline
+	3               & 4                    & 12                    \\ \hline
+	4               & 10                   & 13                    \\ \hline
+	5               & 6                    & A0                    \\ \hline
+	6               & 11                   & A1                    \\ \hline
+	7               & 15                   & A2                    \\ \hline
+	8               & 16                   & A3                    \\ \hline
+	\end{tabular}
+	\caption{Conexão das colunas da matriz no arduino.}
+	\label{tabMatrizColunas}
+\end{table}
+
+A Figura \ref{figPinosJoystick} mostra a numeração de pinos do módulo joystick.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[scale=0.7]{Imagens/Experimentos/5-LEDMatrix/pinosJoy.png}
+	\caption{Numeração de pinos do joystick.}
+	\label{figPinosJoystick}
+\end{figure}
+
+Para ligar o joystick ao arduino basta ligar o \textit{GND} do módulo ao \textit{GND} do arduino, o +5V do módulo ao +5V do arduino. Os pinos VRX e VRY são ligados aos pinos A4 e A5, respectivamente.
 
 \bibliographystyle{sbc}
 \bibliography{referencias}

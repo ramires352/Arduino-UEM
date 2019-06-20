@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[Oliveira 2017]{siteLEDMatrix}
+Oliveira, E. (2017).
+\newblock Arduino – utilizando a matriz de led 5mm 8x8.
+\newblock Acessado em: 20 de junho de 2019.
+
 \bibitem[Pattabiraman 2017]{siteDisplay7}
 Pattabiraman, K. (2017).
 \newblock How to set up 7-segment displays on the arduino.

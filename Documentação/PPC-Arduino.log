@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  15 JUN 2019 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  20 JUN 2019 10:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -639,118 +639,228 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
-<Imagens/figEstrutura.png, id=50, 146.04562pt x 82.05656pt>
-File: Imagens/figEstrutura.png Graphic file (type png)
-<use Imagens/figEstrutura.png>
-Package pdftex.def Info: Imagens/figEstrutura.png  used on input line 46.
-(pdftex.def)             Requested size: 189.85925pt x 106.6735pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 47.
+<Imagens/telaIDE.png, id=53, 1028.34187pt x 559.33969pt>
+File: Imagens/telaIDE.png Graphic file (type png)
+<use Imagens/telaIDE.png>
+Package pdftex.def Info: Imagens/telaIDE.png  used on input line 42.
+(pdftex.def)             Requested size: 205.66473pt x 111.86595pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 43.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 47.
- [1
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 43.
+<Imagens/figEstrutura.png, id=55, 146.04562pt x 82.05656pt>
+File: Imagens/figEstrutura.png Graphic file (type png)
+<use Imagens/figEstrutura.png>
+Package pdftex.def Info: Imagens/figEstrutura.png  used on input line 55.
+(pdftex.def)             Requested size: 189.85925pt x 106.6735pt.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figEstrutura.png (PNG copy)>]
-<Imagens/figProtoboard.png, id=66, 321.45094pt x 211.54031pt>
-File: Imagens/figProtoboard.png Graphic file (type png)
-<use Imagens/figProtoboard.png>
-Package pdftex.def Info: Imagens/figProtoboard.png  used on input line 73.
-(pdftex.def)             Requested size: 160.72507pt x 105.76988pt.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 74.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 74.
-<Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png, id=68, 791.20593pt x 232.61906pt>
-File: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png Graphic file (type png)
-<use Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png>
-Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png  used on input line 82.
-(pdftex.def)             Requested size: 237.3636pt x 69.78625pt.
-<Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png, id=70, 257.46187pt x 248.42813pt>
-File: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png Graphic file (type png)
-<use Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png>
-Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png  used on input line 93.
-(pdftex.def)             Requested size: 205.96976pt x 198.74277pt.
- [2 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figProtoboard.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png (PNG copy)>]
-<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=79, 499.8675pt x 228.10219pt>
-File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png Graphic file (type png)
-<use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png>
-Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png  used on input line 107.
-(pdftex.def)             Requested size: 199.94345pt x 91.23924pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/telaIDE.png (PNG copy)>]
+<Imagens/carregarIDE.png, id=70, 98.61844pt x 22.58438pt>
+File: Imagens/carregarIDE.png Graphic file (type png)
+<use Imagens/carregarIDE.png>
+Package pdftex.def Info: Imagens/carregarIDE.png  used on input line 70.
+(pdftex.def)             Requested size: 98.61818pt x 22.5843pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
-<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png, id=81, 497.60907pt x 211.54031pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+<Imagens/figProtoboard.png, id=75, 321.45094pt x 211.54031pt>
+File: Imagens/figProtoboard.png Graphic file (type png)
+<use Imagens/figProtoboard.png>
+Package pdftex.def Info: Imagens/figProtoboard.png  used on input line 91.
+(pdftex.def)             Requested size: 160.72507pt x 105.76988pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 92.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 92.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png, id=77, 791.20593pt x 232.61906pt>
+File: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png Graphic file (type png)
+<use Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png>
+Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png  used on input line 100.
+(pdftex.def)             Requested size: 237.3636pt x 69.78625pt.
+[2 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figEstrutura.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/carregarIDE.png>]
+<Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png, id=86, 257.46187pt x 248.42813pt>
+File: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png Graphic file (type png)
+<use Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png>
+Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png  used on input line 111.
+(pdftex.def)             Requested size: 205.96976pt x 198.74277pt.
+ [3 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figProtoboard.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png (PNG copy)>]
+<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=96, 499.8675pt x 228.10219pt>
+File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png Graphic file (type png)
+<use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png>
+Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png  used on input line 125.
+(pdftex.def)             Requested size: 199.94345pt x 91.23924pt.
+<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png, id=98, 497.60907pt x 211.54031pt>
 File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png Graphic file (type png)
 <use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png>
-Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png  used on input line 118.
+Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png  used on input line 136.
 (pdftex.def)             Requested size: 298.56773pt x 126.92516pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
-[3 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png (PNG copy)>]
-<Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png, id=91, 502.87875pt x 249.93375pt>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+<Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png, id=100, 502.87875pt x 249.93375pt>
 File: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png Graphic file (type png)
 <use Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png>
-Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png  used on input line 132.
+Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png  used on input line 150.
 (pdftex.def)             Requested size: 201.14793pt x 99.97173pt.
-<Imagens/Experimentos/3-LDR-LEDGraph/codigo.png, id=93, 371.88937pt x 378.66469pt>
-File: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png Graphic file (type png)
-<use Imagens/Experimentos/3-LDR-LEDGraph/codigo.png>
-Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png  used on input line 141.
-(pdftex.def)             Requested size: 145.03627pt x 147.67862pt.
- [4 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/codigo.png (PNG copy)>]
-<Imagens/Experimentos/4-Display7Seg/7segmentos.png, id=102, 131.74219pt x 147.55125pt>
-File: Imagens/Experimentos/4-Display7Seg/7segmentos.png Graphic file (type png)
-<use Imagens/Experimentos/4-Display7Seg/7segmentos.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/7segmentos.png  used on input line 151.
-(pdftex.def)             Requested size: 65.87093pt x 73.77544pt.
-<Imagens/Experimentos/4-Display7Seg/pinosDisplay.png, id=104, 102.3825pt x 184.43906pt>
-File: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png Graphic file (type png)
-<use Imagens/Experimentos/4-Display7Seg/pinosDisplay.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png  used on input line 162.
-(pdftex.def)             Requested size: 51.19112pt x 92.2193pt.
-<Imagens/Experimentos/4-Display7Seg/esquematico.png, id=106, 505.89pt x 299.61937pt>
-File: Imagens/Experimentos/4-Display7Seg/esquematico.png Graphic file (type png)
-<use Imagens/Experimentos/4-Display7Seg/esquematico.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/esquematico.png  used on input line 173.
-(pdftex.def)             Requested size: 151.76816pt x 89.8865pt.
-<Imagens/Experimentos/4-Display7Seg/codigoBotao.png, id=108, 313.9228pt x 152.06813pt>
-File: Imagens/Experimentos/4-Display7Seg/codigoBotao.png Graphic file (type png)
-<use Imagens/Experimentos/4-Display7Seg/codigoBotao.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/codigoBotao.png  used on input line 182.
-(pdftex.def)             Requested size: 204.0474pt x 98.8431pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl [5 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/7segmentos.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/pinosDisplay.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/esquematico.png (PNG copy)>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
- [6 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/codigoBotao.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
+<Imagens/Experimentos/3-LDR-LEDGraph/codigo.png, id=102, 371.88937pt x 378.66469pt>
+File: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png Graphic file (type png)
+<use Imagens/Experimentos/3-LDR-LEDGraph/codigo.png>
+Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png  used on input line 159.
+(pdftex.def)             Requested size: 145.03627pt x 147.67862pt.
+[4 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png (PNG copy)>]
+<Imagens/Experimentos/4-Display7Seg/7segmentos.png, id=112, 131.74219pt x 147.55125pt>
+File: Imagens/Experimentos/4-Display7Seg/7segmentos.png Graphic file (type png)
+<use Imagens/Experimentos/4-Display7Seg/7segmentos.png>
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/7segmentos.png  used on input line 169.
+(pdftex.def)             Requested size: 65.87093pt x 73.77544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+<Imagens/Experimentos/4-Display7Seg/pinosDisplay.png, id=114, 102.3825pt x 184.43906pt>
+File: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png Graphic file (type png)
+<use Imagens/Experimentos/4-Display7Seg/pinosDisplay.png>
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png  used on input line 180.
+(pdftex.def)             Requested size: 51.19112pt x 92.2193pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/codigo.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/7segmentos.png (PNG copy)>]
+<Imagens/Experimentos/4-Display7Seg/esquematico.png, id=124, 505.89pt x 299.61937pt>
+File: Imagens/Experimentos/4-Display7Seg/esquematico.png Graphic file (type png)
+<use Imagens/Experimentos/4-Display7Seg/esquematico.png>
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/esquematico.png  used on input line 191.
+(pdftex.def)             Requested size: 151.76816pt x 89.8865pt.
+<Imagens/Experimentos/4-Display7Seg/codigoBotao.png, id=126, 313.9228pt x 152.06813pt>
+File: Imagens/Experimentos/4-Display7Seg/codigoBotao.png Graphic file (type png)
+<use Imagens/Experimentos/4-Display7Seg/codigoBotao.png>
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/codigoBotao.png  used on input line 200.
+(pdftex.def)             Requested size: 204.0474pt x 98.8431pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+<Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png, id=129, 112.92188pt x 169.38281pt>
+File: Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png Graphic file (type png)
+<use Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png>
+Package pdftex.def Info: Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png  used on input line 214.
+(pdftex.def)             Requested size: 79.04475pt x 118.56714pt.
+[6 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/pinosDisplay.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/esquematico.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/codigoBotao.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+<Imagens/Experimentos/5-LEDMatrix/pinosJoy.png, id=141, 125.71968pt x 164.11313pt>
+File: Imagens/Experimentos/5-LEDMatrix/pinosJoy.png Graphic file (type png)
+<use Imagens/Experimentos/5-LEDMatrix/pinosJoy.png>
+Package pdftex.def Info: Imagens/Experimentos/5-LEDMatrix/pinosJoy.png  used on input line 263.
+(pdftex.def)             Requested size: 88.00316pt x 114.87839pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl [7 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 273.
+ [8 </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosJoy.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 273.
  (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 273.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 273.
 Package rerunfilecheck Info: File `PPC-Arduino.out' has not changed.
-(rerunfilecheck)             Checksum: C1C88119E5C90C26837C259119AA3F4B;678.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 190.
+(rerunfilecheck)             Checksum: 71961014B4FC762EC2C1003C6A48301A;746.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 273.
  ) 
 Here is how much of TeX's memory you used:
- 7407 strings out of 492982
- 107516 string characters out of 6134897
- 209204 words of memory out of 5000000
- 10829 multiletter control sequences out of 15000+600000
+ 7446 strings out of 492982
+ 108436 string characters out of 6134897
+ 210592 words of memory out of 5000000
+ 10853 multiletter control sequences out of 15000+600000
  21163 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,35p,661b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,35p,661b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (6 pages, 585261 bytes).
+Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (8 pages, 613924 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
