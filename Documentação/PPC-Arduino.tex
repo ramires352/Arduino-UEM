@@ -4,6 +4,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{graphicx,url}
 \usepackage{xcolor}
+\usepackage{float}
 
 \usepackage[brazil]{babel}   
 %\usepackage[latin1]{inputenc}  
@@ -11,7 +12,7 @@
      
 \sloppy
 
-\title{\textbf{Microcontrolador Arduino UNO}}
+\title{\textbf{Arduino Sensor Kit da Yahboom Technology:\\Tutorial para Experimentos}}
 
 \author{Raul Ramires\inst{1}}
 
@@ -29,6 +30,8 @@
 \section{Introdução}
 	O arduino é uma placa microcontroladora baseada no microcontrolador ATMega e pode ser integrada com uma grande diversidade de componentes e sensores. O projeto a ser desenvolvido propõe a configuração do ambiente de trabalho e a realização de diversos experimentos com diferentes sensores.
 
+	O Arduino Sensor Kit da da Yahboom Technology, utilizado é um kit de componentes e sensores baseado no Arduino UNO R3. O objetivo do presente tutorial é o de apresentar os passos e explicações de como realizar experimentos com o referido kit. 
+
 \section{Ambiente de Trabalho}
 	O arduino possui uma IDE \textit{Integrated Development Environment} chamada de ``Arduino IDE'', que é onde serão escritos os códigos para que depois sejam enviados ao arduino e executado.
 
@@ -37,11 +40,50 @@
 
 	A Figura \ref{figIDE} mostra a tela principal da IDE do arduino.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.2]{Imagens/telaIDE.png}
 		\caption{Tela principal da Arduino IDE.}
 		\label{figIDE}
+	\end{figure}
+
+\subsection{Arduino Sensor Kit}
+	O kit de sensores para arduino UNO da Yahboom contém os seguintes componentes:
+
+\begin{description}
+	\item[Protoboard] Placa de prototipação de 830 pontos;
+	\item[Arduino UNO] Microcontrolador Arduino UNO R3;
+	\item[Bateria 9V] Bateria para alimentação do arduino;
+	\item[Motor de Passo] Motor de passo alimentado por 5V;
+	\item[Motor DC] Motor de corrente contínua;
+	\item[Servo Motor] Micro Servo 9g;
+	\item[Matriz de LED] Matriz 8x8 de LEDs (1588BS);
+	\item[Display 7 Segmentos] Módulo com um display de 7 segmentos (5161AS);
+	\item[4 Displays de 7 Segmentos] Módulo com 4 displays de 7 segmentos (3461AS-1);     
+	\item[Hélice] Hélice de plástico com 4 pás;
+	\item[LDR] Resistor dependente de luz;
+	\item[Push Button] Botões de pressionamento;
+	\item[Sensor de Presença] Sensor infravermelho de presença;
+	\item[Sensor de Gás] Sensor de gás \textit{Flying-Fish};
+	\item[Sensor Gray Scale] Sensor de escala de cinza;
+	\item[Joystick] Módulo joystick de 3 eixos;
+	\item[Sensor de Som] Módulo de sensor de som;
+	\item[LED Flashlight] Módulo composto por 2 LEDs RGB;
+	\item[Sensor Ultrasônico] Sensor ultrasônico de distância (HC-SR04);
+	\item[Display LCD] Display LCD 16x2;
+	\item[Potenciômetro] Resistor varável de 5k$\Omega$;
+	\item[Ponte H] Módulo para controle de motores;
+	\item[LEDs] 15 LEDs coloridos;
+	\item[Resistores] Resistores de 220$\Omega$, 1k$\Omega$ e 10k$\Omega$.     
+\end{description}
+
+	A Figura \ref{figComponentes} mostra os componentes descritos acima.
+
+	\begin{figure}[H]
+		\centering
+		\includegraphics[scale=0.25]{Imagens/kit.png}
+		\caption{Sensores presentes no kit.}
+		\label{figComponentes}
 	\end{figure}
 
 \section{Programação}
@@ -50,9 +92,9 @@
 \subsection{Estrutura do código}
 	A Figura \ref{figEstruturaCodigo} mostra a estrutura básica de um código para arduino. Esse código é dividido em duas funções: a função \textit{setup} e a função \textit{loop}.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
-		\includegraphics[scale=1.3]{Imagens/figEstrutura.png}
+		\includegraphics[scale=1]{Imagens/figEstrutura.png}
 		\caption{Estrutura do código.}
 		\label{figEstruturaCodigo}
 	\end{figure}
@@ -65,7 +107,7 @@
 
 	A Figura \ref{figCarregarIDE} mostra em destaque o botão para carregar o código para o arduino.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=1]{Imagens/carregarIDE.png}
 		\caption{Destaque do botão de carregar.}
@@ -84,9 +126,9 @@
 
 	Alguns modelos de \textit{protoboard} possuem dois barramentos laterais, um negativo e um positivo que percorrem a \textit{protoboard} inteira. O padrão de utilização desses barramentos é ligar o 5V no barramento vermelho e o GND no barramento preto, ficando assim mais simples de realizar a alimentação dos componentes utilizados.
 
-	A Figura \ref{figProtoboard} mostra o esquema de uma \textit{protoboard} de 360 pontos.\\\\
+	A Figura \ref{figProtoboard} mostra o esquema de uma \textit{protoboard} de 360 pontos.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.5]{Imagens/figProtoboard.png}
 		\caption{\textit{Protoboard} de 360 pontos}
@@ -95,7 +137,7 @@
 
 	A Figura \ref{figExp1PiscarLEDesq} mostra o esquema do circuito para piscar um LED, utilizando o arduino.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.3]{Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png}
 		\caption{Esquemático do circuito do experimento 1.}
@@ -106,9 +148,9 @@
 
 	A Figura \ref{figExp1PiscarLEDcod} mostra o código que fará com que o arduino pisque o LED.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
-		\includegraphics[scale=0.8]{Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png}
+		\includegraphics[scale=0.7]{Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png}
 		\caption{Código do experimento 1.}
 		\label{figExp1PiscarLEDcod}
 	\end{figure}
@@ -120,7 +162,7 @@
 
 	A Figura \ref{figExp2BrilhoLEDesq} mostra o esquemático do circuito do experimento.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.4]{Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png}
 		\caption{Esquemático do circuito do experimento 2.}
@@ -131,7 +173,7 @@
 
 	A figura \ref{figExp2BrilhoLEDcod} mostra o código do experimento 2.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.6]{Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png}
 		\caption{Código do experimento 2.}
@@ -143,9 +185,9 @@
 
 	Para esse experimento, quanto maior a luz incidente sobre o LDR, menos LEDs irão acender.
 
-	A Figura \ref{figExp3LDResq} mostra o esquemático do circuito do experimento 3.\\\\\\\\
+	A Figura \ref{figExp3LDResq} mostra o esquemático do circuito do experimento 3.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.4]{Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png}
 		\caption{Esquemático do circuito do experimento 3.}
@@ -154,7 +196,7 @@
 
 	A Figura \ref{codigoExp3} mostra o código do experimento 3.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.39]{Imagens/Experimentos/3-LDR-LEDGraph/codigo.png}
 		\caption{Código do experimento 3.}
@@ -164,7 +206,7 @@
 \subsection{Display de 7 Segmentos}
 	Esse experimento faz o controle de um display de 7 segmentos utilizando um botão para exibir os dígitos de 0 a 9. O display incia exibindo o dígito 0 e incrementa um dígito quando o botão é pressionado. Os segmentos do display são nomeados de acordo com a Figura \ref{figSegmentosDisplay} \cite{siteDisplay7}.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.5]{Imagens/Experimentos/4-Display7Seg/7segmentos.png}
 		\caption{Segmentos do display.}
@@ -173,9 +215,9 @@
 
 	Para acender um segmento o arduino deve enviar um sinal alto para o segmento, e para apagar deve enviar um sinal baixo.
 
-	A Figura \ref{figPinosDisplay} mostra a pinagem do display. Para esse experimento não será utilizado o ponto decimal.\\\\\\\\
+	A Figura \ref{figPinosDisplay} mostra a pinagem do display. Para esse experimento não será utilizado o ponto decimal.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.5]{Imagens/Experimentos/4-Display7Seg/pinosDisplay.png}
 		\caption{Pinagem do display de 7 segmentos.}
@@ -186,7 +228,7 @@
 
 	A Figura \ref{figExp4cod} mostra o esquemático do circuito do experimento 4.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.3]{Imagens/Experimentos/4-Display7Seg/esquematico.png}
 		\caption{Esquemático do experimento 4.}
@@ -195,7 +237,7 @@
 
 	A Figura \ref{figExp4botao} mostra o trecho de código que faz a leitura do botão.
 
-	\begin{figure}[h!]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.65]{Imagens/Experimentos/4-Display7Seg/codigoBotao.png}
 		\caption{Código que detecta o acionamento do botão.}
@@ -207,9 +249,9 @@ Esse experimento tem como objetivo percorrer os LEDs da matriz utilizando um joy
 
 Como o \textit{Tinkercad} não possui os módulos da matriz e do joystick, esse experimento não estará disponível para simulação.
 
-A Figura \ref{figPinosMatriz} mostra a numeração de pinos da matriz de LEDs \cite{siteLEDMatrix}.\\\\\\
+A Figura \ref{figPinosMatriz} mostra a numeração de pinos da matriz de LEDs \cite{siteLEDMatrix}.
 
-\begin{figure}[h!]
+\begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.7]{Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png}
 	\caption{Numeração de pinos da matriz.}
@@ -218,7 +260,7 @@ A Figura \ref{figPinosMatriz} mostra a numeração de pinos da matriz de LEDs \c
 
 A Tabela \ref{tabMatrizLinhas} mostra como fazer a conexão das linhas da matriz com o arduino.
 
-\begin{table}[h!]
+\begin{table}[H]
 	\centering
 	\begin{tabular}{|c|c|c|}
 	\hline
@@ -236,9 +278,9 @@ A Tabela \ref{tabMatrizLinhas} mostra como fazer a conexão das linhas da matriz
 	\label{tabMatrizLinhas}
 \end{table}
 
-A Tabela \ref{tabMatrizColunas} mostra como fazer a conexão das colunas da matriz com o arduino.\\\\\\\\
+A Tabela \ref{tabMatrizColunas} mostra como fazer a conexão das colunas da matriz com o arduino.
 
-\begin{table}[h!]
+\begin{table}[H]
 	\centering
 	\begin{tabular}{|c|c|c|}
 	\hline
@@ -258,7 +300,7 @@ A Tabela \ref{tabMatrizColunas} mostra como fazer a conexão das colunas da matr
 
 A Figura \ref{figPinosJoystick} mostra a numeração de pinos do módulo joystick.
 
-\begin{figure}[h!]
+\begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.7]{Imagens/Experimentos/5-LEDMatrix/pinosJoy.png}
 	\caption{Numeração de pinos do joystick.}

@@ -1,6 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/ttyUSB0",
-    "sketch": "Experimentos/5-LEDMatrix/5-LEDMatrix.ino",
-    "programmer": "AVR ISP"
+    "sketch": "Experimentos/6-SensorDistancia/6-SensorDistancia.ino"
 }
