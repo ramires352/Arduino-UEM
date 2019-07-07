@@ -201,6 +201,9 @@ INPUT /home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMat
 INPUT /home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosJoy.png
 INPUT /home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosJoy.png
 INPUT /home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosJoy.png
+INPUT /home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/6-SensorDistancia/esquematico.png
+INPUT /home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/6-SensorDistancia/esquematico.png
+INPUT /home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/6-SensorDistancia/esquematico.png
 INPUT /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl
 INPUT /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl
 INPUT /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux
@@ -209,6 +212,7 @@ INPUT /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.out
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb

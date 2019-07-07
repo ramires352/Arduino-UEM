@@ -74,7 +74,8 @@
 	\item[Potenciômetro] Resistor varável de 5k$\Omega$;
 	\item[Ponte H] Módulo para controle de motores;
 	\item[LEDs] 15 LEDs coloridos;
-	\item[Resistores] Resistores de 220$\Omega$, 1k$\Omega$ e 10k$\Omega$.     
+	\item[Resistores] Resistores de 220$\Omega$, 1k$\Omega$ e 10k$\Omega$;
+	\item[Buzzer] Buzzer ativo para emitir som.      
 \end{description}
 
 	A Figura \ref{figComponentes} mostra os componentes descritos acima.
@@ -308,6 +309,28 @@ A Figura \ref{figPinosJoystick} mostra a numeração de pinos do módulo joystic
 \end{figure}
 
 Para ligar o joystick ao arduino basta ligar o \textit{GND} do módulo ao \textit{GND} do arduino, o +5V do módulo ao +5V do arduino. Os pinos VRX e VRY são ligados aos pinos A4 e A5, respectivamente.
+
+\subsection{Sensor de Distância}
+Esse experimento consiste em utilizar o sensor ultrasônico de distância para exibir a distância medida no display LCD. Esse experimento possui uma medida de distância mínima que pode ser regulada utilizando um potenciômetro. Quando a distância medida for menor que a distância mínima será soado um alarme sonoro.
+
+O circuito possui ainda um segundo potenciômetro necessário para a regulagem do brilho do display.
+
+Para esse experimento será necessário a utilização de duas bibliotecas, a \textbf{LiquidCrystal.h} que é responsável por controlar o display e a biblioteca \textbf{Ultrasonic.h} que controla o sensor ultrasônico de distância.
+
+A biblioteca \textbf{LiquidCrystal.h} já está contida na IDE do arduino. Já a biblioteca \textbf{Ultrasonic.h} deve ser baixada e instalada manualmente.
+
+Originalmente a biblioteca \textbf{Ultrasonic.h} foi desenvolvida pelo site \href{https://www.filipeflop.com/blog/sensor-ultrassonico-hc-sr04-ao-arduino/}{\textcolor{blue}{\textbf{FilipeFlop}}} \cite{siteUltrasonic}. A biblioteca está disponível no repositório do \textit{GitHub} para fácil acesso.
+
+Para adicionar a biblioteca ao Arduino IDE basta clicar em \textit{Sketch $\rightarrow$ Incluir Biblioteca $\rightarrow$ Adicionar Biblioteca .ZIP} e selecionar o arquivo \textit{Ultrasonic.zip} presente na pasta Bibliotecas.
+
+Como não é possível instalar bibliotecas adicionais no \textit{Tinkercad}, esse experimento não está disponível para simulação, porém é possível ver o esquemático do circuito no site, como mostrado na Figura \ref{figExp6esq}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.6]{Imagens/Experimentos/6-SensorDistancia/esquematico.png}
+	\caption{Esquemático do experimento 6.}
+	\label{figExp6esq}
+\end{figure}
 
 \bibliographystyle{sbc}
 \bibliography{referencias}
