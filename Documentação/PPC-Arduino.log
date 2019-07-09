@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  7 JUL 2019 19:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.9)  9 JUL 2019 18:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -646,7 +646,7 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-<Imagens/telaIDE.png, id=61, 1028.34187pt x 559.33969pt>
+<Imagens/telaIDE.png, id=65, 1028.34187pt x 559.33969pt>
 File: Imagens/telaIDE.png Graphic file (type png)
 <use Imagens/telaIDE.png>
 Package pdftex.def Info: Imagens/telaIDE.png  used on input line 45.
@@ -665,165 +665,165 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
                                                   \fi \fi 
 l.59 	\item[Servo Motor]
                          Micro Servo 9g; </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/telaIDE.png (PNG copy)>]
-<Imagens/kit.png, id=75, 803.0pt x 622.325pt>
+<Imagens/kit.png, id=79, 803.0pt x 622.325pt>
 File: Imagens/kit.png Graphic file (type png)
 <use Imagens/kit.png>
-Package pdftex.def Info: Imagens/kit.png  used on input line 85.
+Package pdftex.def Info: Imagens/kit.png  used on input line 86.
 (pdftex.def)             Requested size: 200.74951pt x 155.58086pt.
-<Imagens/figEstrutura.png, id=78, 146.04562pt x 82.05656pt>
+<Imagens/figEstrutura.png, id=82, 146.04562pt x 82.05656pt>
 File: Imagens/figEstrutura.png Graphic file (type png)
 <use Imagens/figEstrutura.png>
-Package pdftex.def Info: Imagens/figEstrutura.png  used on input line 98.
+Package pdftex.def Info: Imagens/figEstrutura.png  used on input line 99.
 (pdftex.def)             Requested size: 146.04524pt x 82.05635pt.
  [2pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.102 
+l.103 
        </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/kit.png>]
-<Imagens/carregarIDE.png, id=87, 98.61844pt x 22.58438pt>
+<Imagens/carregarIDE.png, id=91, 98.61844pt x 22.58438pt>
 File: Imagens/carregarIDE.png Graphic file (type png)
 <use Imagens/carregarIDE.png>
-Package pdftex.def Info: Imagens/carregarIDE.png  used on input line 113.
+Package pdftex.def Info: Imagens/carregarIDE.png  used on input line 114.
 (pdftex.def)             Requested size: 98.61818pt x 22.5843pt.
-<Imagens/figProtoboard.png, id=91, 321.45094pt x 211.54031pt>
+<Imagens/figProtoboard.png, id=95, 321.45094pt x 211.54031pt>
 File: Imagens/figProtoboard.png Graphic file (type png)
 <use Imagens/figProtoboard.png>
-Package pdftex.def Info: Imagens/figProtoboard.png  used on input line 134.
+Package pdftex.def Info: Imagens/figProtoboard.png  used on input line 135.
 (pdftex.def)             Requested size: 160.72507pt x 105.76988pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 135.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 136.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 135.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 136.
  [3pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.138 
+l.139 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.138 
+l.139 
        </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figEstrutura.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/carregarIDE.png>]
-<Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png, id=100, 791.20593pt x 232.61906pt>
+<Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png, id=104, 791.20593pt x 232.61906pt>
 File: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png Graphic file (type png)
 <use Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png>
-Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png  used on input line 143.
+Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png  used on input line 144.
 (pdftex.def)             Requested size: 237.3636pt x 69.78625pt.
-<Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png, id=102, 257.46187pt x 248.42813pt>
+<Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png, id=106, 257.46187pt x 248.42813pt>
 File: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png Graphic file (type png)
 <use Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png>
-Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png  used on input line 154.
+Package pdftex.def Info: Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png  used on input line 155.
 (pdftex.def)             Requested size: 180.22206pt x 173.8985pt.
  [4pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.162 	O
+l.163 	O
          potenciômetro é um resistor capaz de variar sua resistencia, para...pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.162 	O
+l.163 	O
          potenciômetro é um resistor capaz de variar sua resistencia, para...pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.162 	O
+l.163 	O
          potenciômetro é um resistor capaz de variar sua resistencia, para... </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/figProtoboard.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLED.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/1-PiscarLED/1-PiscarLEDcod.png (PNG copy)>]
-<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=112, 499.8675pt x 228.10219pt>
+<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png, id=116, 499.8675pt x 228.10219pt>
 File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png Graphic file (type png)
 <use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png>
-Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png  used on input line 168.
+Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png  used on input line 169.
 (pdftex.def)             Requested size: 199.94345pt x 91.23924pt.
-<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png, id=114, 497.60907pt x 211.54031pt>
+<Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png, id=118, 497.60907pt x 211.54031pt>
 File: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png Graphic file (type png)
 <use Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png>
-Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png  used on input line 179.
+Package pdftex.def Info: Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png  used on input line 180.
 (pdftex.def)             Requested size: 298.56773pt x 126.92516pt.
-<Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png, id=116, 502.87875pt x 249.93375pt>
+<Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png, id=120, 502.87875pt x 249.93375pt>
 File: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png Graphic file (type png)
 <use Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png>
-Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png  used on input line 193.
+Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png  used on input line 194.
 (pdftex.def)             Requested size: 201.14793pt x 99.97173pt.
  [5pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.197 
+l.198 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.197 
+l.198 
        </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDesq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/2-brilhoLED/2-brilhoLEDcod.png (PNG copy)>]
-<Imagens/Experimentos/3-LDR-LEDGraph/codigo.png, id=124, 371.88937pt x 378.66469pt>
+<Imagens/Experimentos/3-LDR-LEDGraph/codigo.png, id=128, 371.88937pt x 378.66469pt>
 File: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png Graphic file (type png)
 <use Imagens/Experimentos/3-LDR-LEDGraph/codigo.png>
-Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png  used on input line 202.
+Package pdftex.def Info: Imagens/Experimentos/3-LDR-LEDGraph/codigo.png  used on input line 203.
 (pdftex.def)             Requested size: 145.03627pt x 147.67862pt.
-<Imagens/Experimentos/4-Display7Seg/7segmentos.png, id=127, 131.74219pt x 147.55125pt>
+<Imagens/Experimentos/4-Display7Seg/7segmentos.png, id=131, 131.74219pt x 147.55125pt>
 File: Imagens/Experimentos/4-Display7Seg/7segmentos.png Graphic file (type png)
 <use Imagens/Experimentos/4-Display7Seg/7segmentos.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/7segmentos.png  used on input line 212.
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/7segmentos.png  used on input line 213.
 (pdftex.def)             Requested size: 65.87093pt x 73.77544pt.
-<Imagens/Experimentos/4-Display7Seg/pinosDisplay.png, id=129, 102.3825pt x 184.43906pt>
+<Imagens/Experimentos/4-Display7Seg/pinosDisplay.png, id=133, 102.3825pt x 184.43906pt>
 File: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png Graphic file (type png)
 <use Imagens/Experimentos/4-Display7Seg/pinosDisplay.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png  used on input line 223.
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/pinosDisplay.png  used on input line 224.
 (pdftex.def)             Requested size: 51.19112pt x 92.2193pt.
  [6pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.227 
+l.228 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.227 
+l.228 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.227 
+l.228 
        </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/3-LDR-LEDGraphEsq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/3-LDR-LEDGraph/codigo.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/7segmentos.png (PNG copy)>]
-<Imagens/Experimentos/4-Display7Seg/esquematico.png, id=140, 505.89pt x 299.61937pt>
+<Imagens/Experimentos/4-Display7Seg/esquematico.png, id=144, 505.89pt x 299.61937pt>
 File: Imagens/Experimentos/4-Display7Seg/esquematico.png Graphic file (type png)
 <use Imagens/Experimentos/4-Display7Seg/esquematico.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/esquematico.png  used on input line 234.
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/esquematico.png  used on input line 235.
 (pdftex.def)             Requested size: 151.76816pt x 89.8865pt.
-<Imagens/Experimentos/4-Display7Seg/codigoBotao.png, id=142, 313.9228pt x 152.06813pt>
+<Imagens/Experimentos/4-Display7Seg/codigoBotao.png, id=146, 313.9228pt x 152.06813pt>
 File: Imagens/Experimentos/4-Display7Seg/codigoBotao.png Graphic file (type png)
 <use Imagens/Experimentos/4-Display7Seg/codigoBotao.png>
-Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/codigoBotao.png  used on input line 243.
+Package pdftex.def Info: Imagens/Experimentos/4-Display7Seg/codigoBotao.png  used on input line 244.
 (pdftex.def)             Requested size: 204.0474pt x 98.8431pt.
-<Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png, id=145, 112.92188pt x 169.38281pt>
+<Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png, id=149, 112.92188pt x 169.38281pt>
 File: Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png Graphic file (type png)
 <use Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png>
-Package pdftex.def Info: Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png  used on input line 257.
+Package pdftex.def Info: Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png  used on input line 258.
 (pdftex.def)             Requested size: 79.04475pt x 118.56714pt.
  [7pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.261 
+l.262 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.261 
+l.262 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.261 
+l.262 
        </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/pinosDisplay.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/esquematico.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/4-Display7Seg/codigoBotao.png (PNG copy)>]
-<Imagens/Experimentos/5-LEDMatrix/pinosJoy.png, id=158, 125.71968pt x 164.11313pt>
+<Imagens/Experimentos/5-LEDMatrix/pinosJoy.png, id=163, 125.71968pt x 164.11313pt>
 File: Imagens/Experimentos/5-LEDMatrix/pinosJoy.png Graphic file (type png)
 <use Imagens/Experimentos/5-LEDMatrix/pinosJoy.png>
-Package pdftex.def Info: Imagens/Experimentos/5-LEDMatrix/pinosJoy.png  used on input line 306.
+Package pdftex.def Info: Imagens/Experimentos/5-LEDMatrix/pinosJoy.png  used on input line 307.
 (pdftex.def)             Requested size: 88.00316pt x 114.87839pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -832,22 +832,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.310 
+l.311 
       pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.310 
+l.311 
       pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.310 
+l.311 
        </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosMatriz.png>]
-<Imagens/Experimentos/6-SensorDistancia/esquematico.png, id=170, 478.03593pt x 274.77657pt>
+<Imagens/Experimentos/6-SensorDistancia/esquematico.png, id=174, 478.03593pt x 274.77657pt>
 File: Imagens/Experimentos/6-SensorDistancia/esquematico.png Graphic file (type png)
 <use Imagens/Experimentos/6-SensorDistancia/esquematico.png>
-Package pdftex.def Info: Imagens/Experimentos/6-SensorDistancia/esquematico.png  used on input line 330.
+Package pdftex.def Info: Imagens/Experimentos/6-SensorDistancia/esquematico.png  used on input line 331.
 (pdftex.def)             Requested size: 286.82376pt x 164.8672pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -856,36 +856,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.334 
-       </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosJoy.png>] (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 338.
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
+l.335 
+       </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/5-LEDMatrix/pinosJoy.png>]
+<Imagens/Experimentos/7-LED-RGB/esq.png, id=183, 505.13719pt x 241.65282pt>
+File: Imagens/Experimentos/7-LED-RGB/esq.png Graphic file (type png)
+<use Imagens/Experimentos/7-LED-RGB/esq.png>
+Package pdftex.def Info: Imagens/Experimentos/7-LED-RGB/esq.png  used on input line 347.
+(pdftex.def)             Requested size: 303.08466pt x 144.9928pt.
+ (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl [10pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.338 \end{document}
-                     </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/6-SensorDistancia/esquematico.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 338.
+l.17 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.17 
+      </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/6-SensorDistancia/esquematico.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/7-LED-RGB/esq.png (PNG copy)>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
  (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 338.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 338.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
 Package rerunfilecheck Info: File `PPC-Arduino.out' has not changed.
-(rerunfilecheck)             Checksum: 21FFB867443BF30B3B1E9F859C9B9107;886.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 338.
+(rerunfilecheck)             Checksum: EF0716C732771C310FB1C430E8360906;943.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 358.
  ) 
 Here is how much of TeX's memory you used:
- 7523 strings out of 492982
- 109673 string characters out of 6134897
- 212153 words of memory out of 5000000
- 10917 multiletter control sequences out of 15000+600000
+ 7534 strings out of 492982
+ 109940 string characters out of 6134897
+ 212207 words of memory out of 5000000
+ 10923 multiletter control sequences out of 15000+600000
  21163 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,35p,661b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,35p,661b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (10 pages, 1465740 bytes).
+Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (11 pages, 1558129 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 183 compressed objects within 2 object streams
- 48 named destinations out of 1000 (max. 500000)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
