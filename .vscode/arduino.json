@@ -1,5 +1,4 @@
 {
     "board": "arduino:avr:uno",
-    "port": "/dev/ttyUSB0",
-    "sketch": "Experimentos/6-SensorDistancia/6-SensorDistancia.ino"
+    "port": "/dev/ttyUSB0"
 }
