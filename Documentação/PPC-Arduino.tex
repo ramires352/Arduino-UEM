@@ -349,7 +349,31 @@ O esquemático desse experimento pode ser visto na Figura \ref{figExp7esq}.
 	\label{figExp7esq}
 \end{figure}
 
+\subsection{Sensor de Presença}
+O objetivo desse experimento é mostrar o funcionamento de um sensor de presença. O arduino irá piscar um LED RGB quando o sensor for ativado por um movimento. O sensor possui duas regulagens, sendo uma de sensibilidade que determina o alcance do sensor, e uma de duração, que determina quanto tempo o sensor fica ativado após detectar um movimento. Ambas as regulagens são feitas por pequenos potenciômetros soldados na PCB do sensor.
 
+O esquemático do circuito deste experimento pode ser visto na Figura \ref{figExp8esq}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.5]{Imagens/Experimentos/8-SensorPresenca/esq.png}
+	\caption{Esquemático do circuito do experimento 8.}
+	\label{figExp8esq}
+\end{figure}
+
+\subsection{Controle Remoto}
+O objetivo desse experimento é mostrar o funcionamento de um controle remoto infra-vermelho. Para realizar a comunicação é necessário utilizar o receptor infra-vermelho, que irá receber o comando do controle remoto e converter para um valor hexadecimal, cada botão possui um valor diferente.
+
+Nesse experimento o controle remoto será utilizado para controlar a quantidade de LEDs que serão acesos. Utilizando os botoes de 0 a 5 do controle é possível determinar essa quantidade.
+
+O esquemático do circuito pode ser visto na Figura \ref{figExp9esq}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.6]{Imagens/Experimentos/9-ControleRemoto/esq.png}
+	\caption{Esquemático do circuito do experimento 9.}
+	\label{figExp9esq}
+\end{figure}
 
 
 \bibliographystyle{sbc}

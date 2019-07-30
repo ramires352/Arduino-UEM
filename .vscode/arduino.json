@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/ttyUSB0",
-    "sketch": "Experimentos/8-SensorPresenca/8-SensorPresenca.ino"
+    "sketch": "Experimentos/9-ControleRemoto/9-ControleRemoto.ino"
 }
