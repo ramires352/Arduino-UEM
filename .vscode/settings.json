@@ -14,5 +14,6 @@
     "Documentação/sbc-template.sty": true
   },
   "C_Cpp.intelliSenseEngineFallback": "Disabled",
-  "C_Cpp.intelliSenseEngine": "Tag Parser"
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "cSpell.language": "pt,pt-BR,en,en-GB,en-US"
 }

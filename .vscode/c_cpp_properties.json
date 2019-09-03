@@ -3,7 +3,6 @@
         {
             "name": "Linux",
             "includePath": [
-                "/home/ramires/Arduino/libraries/Ultrasonic-master",
                 "/home/ramires/.arduino-1.8.9/tools/**",
                 "/home/ramires/.arduino-1.8.9/hardware/arduino/avr/**",
                 "/home/ramires/.arduino-1.8.9/libraries/**",

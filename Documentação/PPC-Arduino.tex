@@ -364,6 +364,15 @@ O esquemático do circuito deste experimento pode ser visto na Figura \ref{figEx
 \subsection{Controle Remoto}
 O objetivo desse experimento é mostrar o funcionamento de um controle remoto infra-vermelho. Para realizar a comunicação é necessário utilizar o receptor infra-vermelho, que irá receber o comando do controle remoto e converter para um valor hexadecimal, cada botão possui um valor diferente.
 
+Para utilizar o sensor de infravermelho, é necessário instalar uma biblioteca do Arduino. Para isso selecione a opção \textit{sketch} > \textit{incluir biblioteca} > \textit{gerenciar bibliotecas}. No campo de busca insira o nome \textbf{IRremote} e instale a biblioteca \textbf{IRremote by shirriff}. Para esse experimento foi utilizada a versão 2.2.3 da biblioteca. A Figura \ref{figBiblioteca} mostra a biblioteca instalada.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.5]{Imagens/Experimentos/9-ControleRemoto/biblioteca.png}
+	\caption{Instalação da biblioteca IRremote.}
+	\label{figBiblioteca}
+\end{figure}
+
 Nesse experimento o controle remoto será utilizado para controlar a quantidade de LEDs que serão acesos. Utilizando os botoes de 0 a 5 do controle é possível determinar essa quantidade.
 
 O esquemático do circuito pode ser visto na Figura \ref{figExp9esq}.
@@ -375,6 +384,12 @@ O esquemático do circuito pode ser visto na Figura \ref{figExp9esq}.
 	\label{figExp9esq}
 \end{figure}
 
+\subsection{Sensor de Som}
+O objetivo desse experimento é acender ou apagar um LED utilizando um sensor de som. Esse sensor funciona apenas com a detecção de som, ou seja, quando um som for detectado o valor de saída do sensor será \textbf{LOW} e quando não for detectado um som o valor de saída será \textbf{HIGH}. O sensor possui um ajuste de sensibilidade que pode ser ajustado através de um potenciômetro soldado direto na PCB do sensor. Para esse experimento será utilizado o som de uma palma para acionar o LED, então a sensibilidade do sensor deve ser ajustada para ser detectado apenas sons mais altos, se não o sensor irá detectar sons mais baixos.
+
+O sensor de som possui 3 terminais, GND, VCC e OUT. O GND deve ser ligado ao GND do arduino, o VCC deve ser ligado em 5V e o OUT deve ser ligado ao pino digital 3 do Arduino.
+
+O terminal positivo do LED foi ligado ao pino digital 2 do Arduino e o terminal negativo do LED foi ligado a um resistor de 220$\Omega$ e o resistor ligado ao GND do Arduino.
 
 \bibliographystyle{sbc}
 \bibliography{referencias}
