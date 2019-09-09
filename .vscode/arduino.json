@@ -1,6 +1,4 @@
 {
     "board": "arduino:avr:uno",
-    "port": "/dev/ttyUSB0",
-    "sketch": "Experimentos/10-SensorDeSom/10-SensorDeSom.ino",
-    "programmer": "AVR ISP"
+    "port": "/dev/ttyUSB0"
 }

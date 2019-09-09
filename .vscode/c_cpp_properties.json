@@ -6,7 +6,8 @@
                 "/home/ramires/.arduino-1.8.9/tools/**",
                 "/home/ramires/.arduino-1.8.9/hardware/arduino/avr/**",
                 "/home/ramires/.arduino-1.8.9/libraries/**",
-                "/usr/include/linux"
+                "/usr/include/linux",
+                "/home/ramires/Arduino/**"
             ],
             "forcedInclude": [
                 "/home/ramires/.arduino-1.8.9/hardware/arduino/avr/cores/arduino/Arduino.h"

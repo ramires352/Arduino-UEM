@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.21)  3 SEP 2019 14:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.6)  9 SEP 2019 09:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -879,55 +879,45 @@ File: Imagens/Experimentos/8-SensorPresenca/esq.png Graphic file (type png)
 <use Imagens/Experimentos/8-SensorPresenca/esq.png>
 Package pdftex.def Info: Imagens/Experimentos/8-SensorPresenca/esq.png  used on input line 359.
 (pdftex.def)             Requested size: 252.56798pt x 145.29245pt.
-<Imagens/Experimentos/9-ControleRemoto/biblioteca.png, id=204, 548.0475pt x 291.33844pt>
-File: Imagens/Experimentos/9-ControleRemoto/biblioteca.png Graphic file (type png)
-<use Imagens/Experimentos/9-ControleRemoto/biblioteca.png>
-Package pdftex.def Info: Imagens/Experimentos/9-ControleRemoto/biblioteca.png  used on input line 371.
-(pdftex.def)             Requested size: 274.02307pt x 145.66885pt.
-<Imagens/Experimentos/9-ControleRemoto/esq.png, id=206, 495.35063pt x 192.72pt>
+<Imagens/Experimentos/9-ControleRemoto/esq.png, id=204, 495.35063pt x 192.72pt>
 File: Imagens/Experimentos/9-ControleRemoto/esq.png Graphic file (type png)
 <use Imagens/Experimentos/9-ControleRemoto/esq.png>
-Package pdftex.def Info: Imagens/Experimentos/9-ControleRemoto/esq.png  used on input line 382.
+Package pdftex.def Info: Imagens/Experimentos/9-ControleRemoto/esq.png  used on input line 375.
 (pdftex.def)             Requested size: 297.21268pt x 115.63287pt.
  [11pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.386 
+l.382 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.386 
-       </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/8-SensorPresenca/esq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/9-ControleRemoto/biblioteca.png (PNG copy)>] (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
- [12pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.397 \end{document}
-                     </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/9-ControleRemoto/esq.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
+l.382 
+       </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/8-SensorPresenca/esq.png (PNG copy)> </home/ramires/GIT/Arduino-UEM/Documentação/Imagens/Experimentos/9-ControleRemoto/esq.png (PNG copy)>] (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 390.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 390.
  (/home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 390.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 390.
 Package rerunfilecheck Info: File `PPC-Arduino.out' has not changed.
 (rerunfilecheck)             Checksum: 0DC233499440DB5798319BE204DC2FA5;1143.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 390.
  ) 
 Here is how much of TeX's memory you used:
- 7562 strings out of 492982
- 110828 string characters out of 6134896
- 212401 words of memory out of 5000000
- 10941 multiletter control sequences out of 15000+600000
+ 7555 strings out of 492982
+ 110563 string characters out of 6134897
+ 212340 words of memory out of 5000000
+ 10936 multiletter control sequences out of 15000+600000
  21163 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,8n,35p,723b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (12 pages, 1748219 bytes).
+Output written on /home/ramires/GIT/Arduino-UEM/Documentação/PPC-Arduino.pdf (12 pages, 1720297 bytes).
 PDF statistics:
- 265 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 255 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 213 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 250 words of extra memory for PDF output out of 10000 (max. 10000000)
 
