@@ -384,6 +384,20 @@ O sensor de som possui 3 terminais, GND, VCC e OUT. O GND deve ser ligado ao GND
 
 O terminal positivo do LED foi ligado ao pino digital 2 do Arduino e o terminal negativo do LED foi ligado a um resistor de 220$\Omega$ e o resistor ligado ao GND do Arduino.
 
+\section{Servo Motor}
+O objetivo desse experimento é mostrar o funcionamento do servo motor utilizando um controle remoto.
+
+O servo motor permite que o usuário informe um ângulo entre 0 e 180 graus para a posição do motor. Para esse experimento os botões $\Rightarrow$ e $\Leftarrow$ do controle remoto, incrementam e decrementam a posição do motor em 10 graus, respectivamente. Os botões de 0 a 9 definem um ângulo múltiplo de 20 para o motor, por exemplo, ao pressionar o botão 5, o ângulo de posição do motor será $5*20 = 100$ graus.
+
+O esquemático do circuito desse experimento pode ser visto na Figura \ref{figExp11esq}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.5]{Imagens/Experimentos/11-ServoMotor/esq.png}
+	\caption{Esquemático do circuito do experimento 11.}
+	\label{figExp11esq}
+\end{figure}
+
 \bibliographystyle{sbc}
 \bibliography{referencias}
 
