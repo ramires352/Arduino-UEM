@@ -6,6 +6,7 @@
                 "/home/ramires/.arduino-1.8.9/tools/**",
                 "/home/ramires/.arduino-1.8.9/hardware/arduino/avr/**",
                 "/home/ramires/.arduino-1.8.9/libraries/**",
+                "/home/ramires/Arduino/libraries/**",
                 "/usr/include/linux",
                 "/home/ramires/Arduino/**"
             ],
