@@ -43,7 +43,7 @@ decode_results resultado;
 int codigo;
 
 //incremento para os botoes << e >>
-int incremento = 20;
+int incremento = 10;
 
 void setup(){
     receptor.enableIRIn();
