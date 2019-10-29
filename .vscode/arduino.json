@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/ttyUSB0",
-    "sketch": "Experimentos/11-ServoMotor/11-ServoMotor.ino"
+    "sketch": "Experimentos/12-SensorTemperatura/12-SensorTemperatura.ino"
 }

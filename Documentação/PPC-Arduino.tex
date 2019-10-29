@@ -398,6 +398,55 @@ O esquemático do circuito desse experimento pode ser visto na Figura \ref{figEx
 	\label{figExp11esq}
 \end{figure}
 
+\section{Sensor de Temperatura}
+O objetivo desse experimento é utilizar um sensor para realizar a leitura da temperatura do ambiente e mostrar o valor em um display de 7 segmentos de 4 dígitos.
+
+A pinagem do sensor de temperatura pode ser visto na Figura \ref{figDHT11}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.5]{Imagens/Experimentos/12-SensorTemperatura/dht11.png}
+	\caption{Pinagem do sensor DHT11.}
+	\label{figDHT11}
+\end{figure}
+
+O pino 1 do sensor deve ser ligado em 5V. O pino GND deve ser ligado ao GND do Arduino. O pino 2 deve ser ligado a porta analógica A0.
+
+A Figura \ref{fig7seg4dig} mostra a pinagem do display de 7 segmentos com 4 dígitos.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.15]{Imagens/Experimentos/12-SensorTemperatura/7seg.png}
+	\caption{Pinagem do display de 7 segmentos com 4 dígitos.}
+	\label{fig7seg4dig}
+\end{figure}
+
+Como o \textit{Tinkercad} não possui os componentes utilizados para esse experimento, a simulação desse experimento não está disponível no site.
+
+A Tabela \ref{tabSensorTemp} mostra as conexões que devem ser feitas entre o display e o Arduino.
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|c|}
+	\hline
+	\textbf{Display} & \textbf{Arduino} \\ \hline
+	A                & 2                \\ \hline
+	B                & 3                \\ \hline
+	C                & 4                \\ \hline
+	D                & 5                \\ \hline
+	E                & 6                \\ \hline
+	F                & 7                \\ \hline
+	G                & 8                \\ \hline
+	DP               & 9                \\ \hline
+	D1               & 10               \\ \hline
+	D2               & 11               \\ \hline
+	D3               & 12               \\ \hline
+	D4               & 13               \\ \hline
+	\end{tabular}
+	\caption{Conexões entre o Arduino e o display.}
+	\label{tabSensorTemp}
+\end{table}
+
 \bibliographystyle{sbc}
 \bibliography{referencias}
 
